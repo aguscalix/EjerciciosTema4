@@ -60,7 +60,7 @@ public class Main {
         //  informando de la estación en la que está. También habrá que poner un default para cuando el valor de la
         //  variable no sea una estación.
 
-        String estacion = "primavera";
+        String estacion = "invierno";
 
         switch (estacion){
             case "verano":
